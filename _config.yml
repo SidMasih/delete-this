@@ -6,7 +6,7 @@
 name: Sid Masih
 
 # Short bio or description (displayed in the header)
-description: Computer Science student from UC Berkeley
+description: Sophomore Computer Science student from Berkeley 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: sid.masih@gmail.com
+  facebook: https://www.facebook.com/sid.masih.3
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/SidMasih
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/sid-masih-65b54382
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
